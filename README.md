@@ -1,1 +1,1 @@
-# Daily 30 mins minimum will be committed to doing Data Science related task.
+# Daily 30 mins minimum committed to doing Data Science related tasks.
